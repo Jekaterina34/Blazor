@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrRQGmYVw8tWYBt04VlM3vx6UWrN8hTra1iKazKPZsh76LQ9kw/p7thqo9T1LQ+NMw9qF9u2ibm2q/qx3XCryg==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\BlazorAplication\\BlazorServer\\BlazorServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jekat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
